@@ -1,0 +1,154 @@
+{
+    "contacts": [
+        {
+            "name": "Oliver Smith",
+            "email": "oliver.smith@example.com",
+            "phone": "154-879-3662"
+        },
+        {
+            "name": "Emma Johnson",
+            "email": "emma.johnson@example.com",
+            "phone": "782-946-1547"
+        },
+        {
+            "name": "Liam Williams",
+            "email": "liam.williams@example.com",
+            "phone": "925-673-4891"
+        },
+        {
+            "name": "Ava Brown",
+            "email": "ava.brown@example.com",
+            "phone": "359-412-6785"
+        },
+        {
+            "name": "Noah Taylor",
+            "email": "noah.taylor@example.com",
+            "phone": "986-453-7128"
+        },
+        {
+            "name": "Isabella Miller",
+            "email": "isabella.miller@example.com",
+            "phone": "215-738-6945"
+        },
+        {
+            "name": "Lucas Davis",
+            "email": "lucas.davis@example.com",
+            "phone": "498-236-5791"
+        },
+        {
+            "name": "Sophia Wilson",
+            "email": "sophia.wilson@example.com",
+            "phone": "684-321-8765"
+        },
+        {
+            "name": "Mason Thomas",
+            "email": "mason.thomas@example.com",
+            "phone": "394-568-2394"
+        },
+        {
+            "name": "Mia Jackson",
+            "email": "mia.jackson@example.com",
+            "phone": "284-956-4123"
+        },
+        {
+            "name": "Ethan Martinez",
+            "email": "ethan.martinez@example.com",
+            "phone": "649-317-8259"
+        },
+        {
+            "name": "Harper Anderson",
+            "email": "harper.anderson@example.com",
+            "phone": "298-517-6423"
+        },
+        {
+            "name": "Michael Harris",
+            "email": "michael.harris@example.com",
+            "phone": "436-925-8137"
+        },
+        {
+            "name": "Ella Martin",
+            "email": "ella.martin@example.com",
+            "phone": "954-238-7165"
+        },
+        {
+            "name": "Aiden Thompson",
+            "email": "aiden.thompson@example.com",
+            "phone": "372-619-8542"
+        },
+        {
+            "name": "Aria White",
+            "email": "aria.white@example.com",
+            "phone": "863-294-1758"
+        },
+        {
+            "name": "Daniel Garcia",
+            "email": "daniel.garcia@example.com",
+            "phone": "786-349-2185"
+        },
+        {
+            "name": "Lily Martinez",
+            "email": "lily.martinez@example.com",
+            "phone": "289-146-7532"
+        },
+        {
+            "name": "Matthew Robinson",
+            "email": "matthew.robinson@example.com",
+            "phone": "652-398-4172"
+        },
+        {
+            "name": "Zoe Clark",
+            "email": "zoe.clark@example.com",
+            "phone": "542-369-8127"
+        },
+        {
+            "name": "David Rodriguez",
+            "email": "david.rodriguez@example.com",
+            "phone": "236-719-4852"
+        },
+        {
+            "name": "Chloe Lewis",
+            "email": "chloe.lewis@example.com",
+            "phone": "754-219-3861"
+        },
+        {
+            "name": "Joseph Walker",
+            "email": "joseph.walker@example.com",
+            "phone": "942-375-6184"
+        },
+        {
+            "name": "Scarlett Young",
+            "email": "scarlett.young@example.com",
+            "phone": "214-975-3486"
+        },
+        {
+            "name": "Benjamin Hall",
+            "email": "benjamin.hall@example.com",
+            "phone": "789-632-1549"
+        },
+        {
+            "name": "Sofia Allen",
+            "email": "sofia.allen@example.com",
+            "phone": "549-128-3674"
+        },
+        {
+            "name": "Samuel Wright",
+            "email": "samuel.wright@example.com",
+            "phone": "654-231-8974"
+        },
+        {
+            "name": "Abigail Scott",
+            "email": "abigail.scott@example.com",
+            "phone": "329-548-7162"
+        },
+        {
+            "name": "Logan King",
+            "email": "logan.king@example.com",
+            "phone": "127-589-4361"
+        },
+        {
+            "name": "Elizabeth Green",
+            "email": "elizabeth.green@example.com",
+            "phone": "543-678-2910"
+        }
+    ]
+}
